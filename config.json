@@ -1,0 +1,7 @@
+{
+    "keys": {
+        "open_ai_key": "insert openai key here",
+        "weather_api_key": "insert api key here"
+    },
+    "model": "gpt-3.5-turbo-16k"
+}
