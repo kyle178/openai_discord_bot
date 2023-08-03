@@ -173,4 +173,4 @@ async def clear(ctx):
         history.write("")
     await ctx.send("Cleared message history for this server.")
 
-bot.run("MTA4MDk3NTAwNzM4OTMyMzM2NQ.Gb-4ix.az8WAhJMiHT_nw4cbIkVKDgPN1pBIp0z0sMSuY")
+bot.run("token")
